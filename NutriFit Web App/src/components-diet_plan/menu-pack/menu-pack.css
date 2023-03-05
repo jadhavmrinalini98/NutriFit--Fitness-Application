@@ -1,0 +1,27 @@
+.filter-btn{
+
+    border: 1px solid #f76e11;
+    padding: 5px ; 
+    padding-bottom: 2px;
+    background: transparent;
+    margin-left: 10px;
+    /*margin-top: 1px;*/
+    /* padding: 5px; */
+    color: #fff;
+    border-radius: 2px;
+    cursor: pointer;
+    font-size: 0.8rem;
+
+}
+
+
+.menu__title{
+
+    color: #f5b70a;
+}
+
+.active__btn{
+
+    background:#f76e11 ;
+
+}

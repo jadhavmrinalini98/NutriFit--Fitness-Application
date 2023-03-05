@@ -1,0 +1,72 @@
+.app__container{
+
+    background: #F5B70A;
+    border-radius: 10px;
+    padding-top: 27px;
+    padding-right: 10px;
+}
+
+.app__img{
+
+    margin-bottom: -100px;
+}
+
+.app__content h5{
+    color: #0a071a;
+}
+
+.app__content h2{
+
+    color: #0a071a;
+    font-weight: 600;
+}
+
+.app__content{
+    padding-top: 50px;
+}
+
+.app__content p{
+    color: #fff !important;
+}
+
+.btn__apple{
+
+    background: #0a071a;
+    border: none;
+    color: #fff;
+    padding: 33px 7px;
+    border-radius: 7px;
+    margin-bottom: 27px;
+    width: 26%;
+}
+
+.btn__google{
+    background: #fff;
+    color: #0a071a;
+    border: none;
+    /* padding: 7px 25px; */
+    padding: 33px 7px;
+    border-radius: 7px;
+    margin-bottom: 27px;
+    width: 26%;
+}
+
+.btn__google i{
+    color: #0a071a;
+    
+}
+
+.btn__apple:hover a{
+    color: #fff;
+
+    text-decoration: none !important;
+}
+
+.btn__google a{
+    color: black;
+}
+
+.btn__google:hover a{
+    color: #0a071a;
+    text-decoration: none !important;
+}
